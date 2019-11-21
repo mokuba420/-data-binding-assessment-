@@ -1,0 +1,14 @@
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csprojAssemblyReference.cache
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfoInputs.cache
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfo.cs
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.deps.json
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.dll
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.pdb
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagData.dll
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\bin\Debug\netstandard2.0\FlagData.pdb
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CopyComplete
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.dll
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.pdb

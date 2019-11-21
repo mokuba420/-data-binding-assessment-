@@ -1,0 +1,7 @@
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+D:\GITHUBUPDATAS\-data-binding-assessment-\src\exercise1\final\FlagData\obj\Debug\netstandard2.0\FlagData.pdb
